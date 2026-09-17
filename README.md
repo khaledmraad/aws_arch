@@ -17,7 +17,7 @@ This project demonstrates how to deploy a **production-grade, scalable, and high
 
 ## 🏗️ Solution Architecture Diagram
 
-![Scalable Web Application Architecture](./Project%201.drawio.pn)
+![Scalable Web Application Architecture](./Project%201.drawio.png)
 
 > **Figure 1:** End-to-end architecture showing traffic flow from Route 53 → CloudFront → ALB → EC2 (ASG) → RDS, with monitoring via CloudWatch/SNS and secure access via Systems Manager.
 
